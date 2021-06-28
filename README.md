@@ -1,4 +1,11 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Vampon&show_icons=true&&theme=default "/>
+
+
 ### Hi there 👋
+🔭I am a mechanical major student who studies computer knowledge hard. I hope I can learn more computer knowledge
+
+  💬 If you want to communicate with me, you can go to my personal blog [VAM](http://vampon.club "VAM")
+
 
 <!--
 **Vampon/Vampon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
