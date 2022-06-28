@@ -2,7 +2,7 @@
 
 
 ### Hi there 👋
-🔭I am a mechanical major student who is studying computer knowledge hard.
+🔭I am a graduate student majoring in Computer Science.
 
   💬 If you want to communicate with me, you can go to my personal blog [VAM](http://vampon.club "VAM")
 
